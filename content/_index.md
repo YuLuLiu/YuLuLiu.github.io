@@ -14,15 +14,14 @@ sections:
 #
 #
 #
-#  - block: markdown
-#    content:
-#     title: News
-#      text: |-
-#        - [DATE1] News item 1 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-#        - [DATE2] News item 2 Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-#    design:
-#      columns: '2'
-
+  - block: markdown
+    content:
+      title: News
+      text: |-
+        **I'll be attending <span style="color:red">ACL 2024 in person</span> to present our work [ECBD: Evidence-Centered Benchmark Design for NLP](https://arxiv.org/abs/2406.08723)!**
+    design:
+      columns: '2'
+#
 #    
 # TODO: add "news" section: https://github.com/HugoBlox/hugo-blox-builder/issues/1677
 #
