@@ -18,7 +18,7 @@ sections:
     content:
       title: News
       text: |-
-        **I'll be attending <span style="color:red">ACL 2024 in person</span> to present our work [ECBD: Evidence-Centered Benchmark Design for NLP](https://arxiv.org/abs/2406.08723)!**
+        **I'll be attending <span style="color:red">CHI 2025 in Yokohama, Japan (April 26 - May 1)</span>, as the lead organizer of the [HEAL (Human-centered Evaluation and Auditing of Language models) workshop](https://heal-workshop.github.io/)!**
     design:
       columns: '2'
 #
@@ -70,25 +70,4 @@ sections:
 #     # Choose a layout view
 #      view: compact
 #     columns: '2'
-#
-#
-#
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        The best way to reach me is via email or Twitter DM: 
-      # Contact (add or remove contact options as necessary)
-      email: yu.l.liu [at] mail [dot] mcgill [ccTLD for Canada]
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: twitter.com/liu_yu_lu
-          link: 'https://twitter.com/liu_yu_lu'
-      # Automatically link email and phone or display as text?
-      autolink: true
-    design:
-      columns: '2'
 ---
